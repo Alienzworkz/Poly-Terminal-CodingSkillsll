@@ -1,0 +1,28 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+trading_terminal
+trading_terminal.exe
+*.out
+*.app
+
+# Build directories
+obj/
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
